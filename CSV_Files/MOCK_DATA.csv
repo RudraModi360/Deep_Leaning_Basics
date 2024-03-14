@@ -1,0 +1,1001 @@
+Area_Name,No_of_street_light,Type_Area,No_of_men,No_of_women,Women_safety_ratio,Safe_or_unsafe,range
+Mavdi,34,Urban,4865,5641,0.45,Safe,4388698
+Vallabh Vidyanagar,108,Suburban,958,2287,0.79,Unsafe,848210
+Gondal Road,21,Suburban,9075,1540,0.24,Unsafe,1836756
+Chandkheda,140,Suburban,890,7481,0.38,Safe,1168629
+Karamsad,22,Rural,3082,5038,0.91,Unsafe,3290619
+Naranpura,59,Suburban,8675,2420,0.93,Safe,3777674
+Pal,43,Urban,8898,5462,0.31,Safe,3276787
+Kalavad Road,122,Suburban,1863,2235,0.92,Unsafe,4436457
+Joshipura,54,Suburban,2150,4498,0.36,Safe,2769976
+Bhatar,187,Urban,3848,1243,0.84,Unsafe,8069065
+Tarsali,18,Rural,7043,1934,0.79,Unsafe,4804784
+Naranpura,186,Rural,9063,8924,0.05,Safe,8196235
+Thaltej,22,Suburban,9521,927,0.99,Unsafe,6287068
+Bedi Road,54,Urban,739,5573,0.07,Unsafe,8965858
+Park Colony,180,Rural,3634,760,0.14,Safe,3744419
+Alkapuri,108,Urban,60,176,0.02,Unsafe,1588402
+Naranpura,3,Rural,6413,8379,0.6,Unsafe,5116580
+Joshipura,100,Urban,5552,6641,0.05,Unsafe,132369
+Rajkot Raiya Road,44,Rural,4711,6389,0.2,Unsafe,3840689
+Palej,68,Urban,5607,6600,0.06,Unsafe,6987203
+Borsad,49,Suburban,9279,5776,0.87,Safe,8116244
+Naranpura,118,Urban,2038,9923,0.16,Unsafe,1020725
+Kalwa Chowk,17,Rural,1655,7047,0.2,Unsafe,4073163
+Rajkot Raiya Road,5,Urban,9523,9564,0.94,Unsafe,6498053
+Khambhat,160,Suburban,2367,5140,0.34,Safe,3826554
+University Road,26,Rural,7415,5567,0.87,Safe,7699831
+Gotri,64,Urban,4466,7139,0.21,Safe,9353048
+Bhavnath,175,Suburban,4330,2693,0.07,Safe,747328
+Amod,125,Rural,6833,5064,0.62,Unsafe,6200178
+Air Force Area,76,Urban,9108,6935,0.76,Safe,6292054
+Palej,62,Rural,6178,7486,0.89,Unsafe,8297905
+Vadtal,55,Urban,2441,9511,0.62,Unsafe,3957085
+Malaviya Nagar,82,Urban,1208,4846,0.86,Unsafe,6699473
+Ghatlodia,5,Suburban,2739,2547,0.97,Safe,9546863
+Tarsali,188,Urban,9570,6910,0.02,Safe,9010967
+Park Colony,44,Suburban,9459,1353,0.13,Safe,8379138
+Rander,194,Suburban,8961,3083,0.14,Safe,5552618
+Girnar Darwaza,101,Suburban,2395,9796,0.78,Safe,9620875
+Jambusar,2,Urban,5000,9380,0.41,Unsafe,4415878
+Subhash Nagar,0,Suburban,8783,5918,0.9,Unsafe,3143865
+Sarkhej,194,Urban,208,9275,0.34,Safe,7306676
+Joshipura,28,Urban,1372,50,0.37,Safe,1562998
+Ghatlodia,168,Suburban,5633,806,0.03,Safe,3613334
+Maninagar,28,Rural,7537,940,0.71,Unsafe,3695263
+Nirmal Nagar,15,Urban,1022,3225,0.86,Unsafe,4759729
+Karelibaug,11,Rural,3731,2601,0.72,Safe,1903660
+Bhatar,111,Urban,8774,2257,0.51,Safe,4953218
+Nirmal Nagar,163,Suburban,8081,2107,0.62,Safe,9261635
+Subhash Nagar,64,Urban,4395,9083,0.88,Unsafe,3906690
+Bhayani Ni Waadi,142,Rural,9694,2935,0.48,Unsafe,7477516
+Fatehgunj,76,Suburban,2522,9308,0.6,Safe,3137123
+Joshipura,64,Urban,2549,3124,0.12,Safe,694606
+Sector 25,94,Rural,5774,7053,0.72,Unsafe,8041573
+Kalawad Road,77,Rural,7297,2500,0.03,Unsafe,7785563
+Kasak Circle,48,Rural,8041,1996,0.91,Unsafe,5364706
+Bhavnath,170,Rural,6808,8324,0.05,Safe,5181210
+Rajkot Raiya Road,105,Suburban,8457,9434,0.65,Safe,4590868
+Tarsali,131,Urban,3292,6317,0.79,Safe,2495173
+K V Road,68,Urban,9366,6702,0.49,Safe,2550809
+Kalawad Road,171,Rural,3588,1412,0.11,Unsafe,2512375
+Sector 28,126,Urban,502,3332,0.23,Safe,4355596
+Chitra,24,Suburban,931,9566,0.02,Unsafe,160591
+Vadtal,65,Rural,6809,9052,0.27,Safe,1854764
+University Road,57,Urban,7433,4919,0.02,Safe,8443953
+Morbi Road,97,Urban,2856,6871,0.69,Safe,4684934
+Nirmal Nagar,159,Rural,7207,8836,0.71,Safe,539515
+Zadeshwar,163,Urban,6670,8459,0.45,Unsafe,5585772
+Piplod,98,Suburban,204,6830,0.16,Safe,1410570
+Ankleshwar GIDC,27,Urban,7967,6408,0.44,Safe,6768409
+Adajan,145,Rural,3247,5158,0.41,Unsafe,5453135
+Rander,132,Suburban,5772,7443,0.73,Safe,3565413
+Bharuch Narmada Road,137,Rural,5131,9031,0.46,Safe,4805050
+Palej,186,Suburban,3473,1078,0.38,Safe,9924805
+Anklav,77,Suburban,9446,6962,0.52,Safe,6016312
+Borsad,46,Rural,397,5820,0.3,Unsafe,5125310
+K V Road,160,Urban,3511,4332,0.57,Unsafe,5641766
+Joshipura,61,Suburban,3608,1973,0.64,Unsafe,5643222
+Borsad,81,Urban,2822,1432,0.01,Unsafe,9523317
+Sayajigunj,70,Rural,3805,4132,0.68,Safe,675712
+Bhutkhana Chowk,130,Suburban,1687,437,0.01,Unsafe,9240459
+Satellite,150,Urban,964,4714,0.73,Safe,7421951
+Ghogha Circle,161,Rural,2188,3999,0.25,Safe,703819
+Sector 25,168,Rural,7708,8728,0.48,Safe,4854269
+Sayajigunj,198,Suburban,3174,7256,0.37,Unsafe,543883
+Sector 24,144,Urban,2166,5989,0.34,Safe,8509803
+Bhakti Nagar,110,Rural,7769,2310,0.4,Safe,7224902
+Kalwa Chowk,86,Rural,9769,6557,0.66,Unsafe,3696214
+Karamsad,101,Urban,4127,6296,0.72,Unsafe,3339112
+Jhagadia,108,Urban,1843,4741,0.46,Safe,5267607
+Sector 28,85,Urban,3245,2078,0.91,Unsafe,9677282
+Vesu,87,Rural,691,4763,0.83,Safe,6564475
+Jhagadia,119,Suburban,2851,2596,0.61,Unsafe,8181657
+Piplod,63,Suburban,9459,3913,0.43,Unsafe,640683
+Chandkheda,43,Suburban,6863,9068,0.1,Unsafe,8820492
+Bharuch Narmada Road,23,Rural,9917,6071,0.37,Unsafe,320461
+Talav Gate,188,Urban,7722,1408,0.76,Unsafe,488691
+Sector 25,27,Rural,1797,539,0.14,Safe,8596400
+Akota,11,Suburban,7923,7506,0.24,Unsafe,1311239
+Kalwa Chowk,2,Suburban,5433,1089,0.72,Safe,6237452
+Sector 16,12,Rural,493,521,0.81,Unsafe,589926
+Vastrapur,190,Rural,3160,8325,0.03,Safe,3652457
+Dhoraji Road,15,Suburban,5908,8872,0.37,Safe,2632748
+Boriavi,136,Suburban,1112,8988,0.43,Safe,2898552
+Palej,10,Suburban,3483,3812,0.14,Safe,3681486
+Girnar Darwaza,43,Rural,6295,1340,0.46,Unsafe,4663063
+Ghogha Road,99,Suburban,4985,2791,0.01,Safe,5162607
+Rander,1,Rural,39,7027,0.45,Safe,8510483
+Kalwa Chowk,129,Suburban,1479,5953,0.86,Unsafe,1814718
+Girnar Darwaza,31,Suburban,3123,1522,0.61,Safe,9230477
+Alkapuri,113,Suburban,8235,5028,0.57,Safe,751715
+Bhatar,156,Suburban,1762,6428,0.17,Safe,3000320
+Jhagadia,44,Rural,7992,166,0.78,Unsafe,1280239
+Tarsali,8,Rural,4308,7974,0.21,Safe,8413726
+Vallabh Vidyanagar,166,Rural,4561,1232,0.63,Safe,3679788
+Ranjit Sagar Road,18,Suburban,7144,7275,0.66,Unsafe,7146252
+Ghanshyam Nagar,70,Suburban,5732,4757,0.72,Unsafe,8317459
+Bhakti Nagar,161,Urban,1478,1793,0.86,Safe,1392719
+Sama,112,Urban,4035,7247,0.62,Safe,9668685
+University Road,74,Suburban,4079,6376,0.62,Unsafe,2127921
+Ghatlodia,200,Urban,3001,3846,0.79,Unsafe,8996427
+Athwa,154,Rural,112,6145,0.78,Safe,1990580
+Vastrapur,119,Suburban,5907,1045,0.0,Safe,524385
+Bhakti Nagar,88,Urban,3551,6818,0.02,Safe,8548645
+Bhutkhana Chowk,184,Suburban,874,3976,0.91,Safe,2173630
+Sabarmati,173,Urban,1540,6518,0.42,Unsafe,6157370
+Morbi Road,177,Urban,1202,6628,0.6,Unsafe,4812380
+Gotri,40,Rural,7196,1761,0.63,Unsafe,825428
+Athwa,122,Suburban,3861,9342,0.24,Unsafe,4601543
+Green City,101,Urban,7566,5238,0.32,Safe,823611
+Thaltej,94,Suburban,624,7100,0.54,Unsafe,2550750
+Alka Society,90,Urban,7590,1135,0.64,Unsafe,7168750
+Vadtal,196,Rural,6533,5693,0.84,Unsafe,2158582
+Park Colony,105,Suburban,4739,4461,0.72,Unsafe,3549877
+Bhavnath,106,Rural,5019,7507,0.44,Safe,152773
+Khambhat,112,Suburban,9360,5972,0.15,Unsafe,342782
+P N Marg,181,Urban,1585,6815,0.64,Unsafe,4402764
+Dhoraji Road,30,Rural,4563,467,0.36,Unsafe,4018530
+Alkapuri,31,Urban,9148,7101,0.1,Safe,2650230
+Pal,59,Rural,7000,5433,0.09,Safe,7388595
+Ghanshyam Nagar,148,Rural,9066,6299,0.95,Safe,4886555
+P N Marg,160,Rural,3854,605,0.4,Unsafe,9112561
+Sarkhej,65,Rural,5389,6681,0.18,Safe,8050451
+Chandkheda,158,Suburban,6583,7248,0.3,Safe,3260142
+Karelibaug,10,Suburban,5964,5819,0.86,Safe,3948253
+Patel Colony,5,Urban,6035,6783,0.38,Unsafe,471098
+Joshipura,161,Rural,9909,8912,0.45,Unsafe,9444249
+Fatehgunj,48,Suburban,5891,8792,0.36,Unsafe,4289494
+Rander,172,Urban,7423,1954,0.38,Unsafe,1064534
+Ankleshwar GIDC,122,Suburban,2654,9336,0.42,Unsafe,3676379
+Fatehgunj,139,Suburban,2072,2783,0.88,Safe,2949037
+Kalawad Road,4,Urban,3061,6683,0.78,Safe,9164924
+Fatehgunj,99,Suburban,1842,7192,0.82,Safe,4036785
+Amin Marg,33,Urban,7229,8429,0.97,Unsafe,2499988
+Vallabh Nagar,117,Suburban,8139,6740,0.53,Safe,4542480
+Joshipura,33,Urban,8876,152,0.89,Safe,3018480
+Gotri,110,Rural,7161,6617,0.66,Safe,1597450
+Sector 17,123,Urban,7085,2312,0.03,Unsafe,644343
+Sector 25,50,Rural,9041,7643,0.64,Unsafe,9248710
+Lambhvel,156,Suburban,4125,2545,0.05,Safe,3552275
+Ghogha Circle,181,Rural,8350,7263,0.31,Safe,7184942
+Dahej,36,Rural,4830,4026,0.49,Unsafe,3436033
+Sector 29,1,Rural,4268,5084,0.65,Unsafe,896975
+Pal,128,Rural,7884,4262,0.32,Safe,936645
+Kalavad Road,73,Rural,123,167,0.61,Safe,912909
+Amin Marg,189,Suburban,3178,3306,0.56,Unsafe,4331526
+Zadeshwar,14,Rural,2404,8019,0.86,Unsafe,8215275
+Kalwa Chowk,139,Rural,4764,9823,0.95,Safe,6140312
+Akota,109,Urban,8716,5825,0.27,Unsafe,6589449
+K V Road,78,Rural,54,4730,0.19,Safe,8797885
+Waghodia Road,106,Urban,6554,4256,0.36,Unsafe,4836365
+Park Colony,135,Rural,3115,6694,0.97,Safe,6599908
+Ghogha Road,72,Urban,7682,5223,0.66,Safe,7424487
+Bharuch Narmada Road,156,Suburban,7956,8456,0.33,Unsafe,9640412
+Sector 26,77,Suburban,4365,3690,0.34,Safe,250854
+Athwa,5,Urban,9434,3027,0.28,Safe,771750
+Subhanpura,182,Suburban,4458,5720,0.76,Unsafe,7762691
+Sector 23,179,Urban,677,2406,0.65,Safe,2307126
+Kasak Circle,134,Rural,216,5953,0.6,Unsafe,4351307
+Dahej,105,Urban,2354,5017,0.87,Unsafe,5257533
+Vallabh Nagar,53,Rural,4075,9689,0.34,Unsafe,1122757
+Sector 24,183,Rural,9979,7323,0.72,Safe,6588629
+Mavdi,198,Urban,444,2378,0.31,Unsafe,508501
+Pal,108,Rural,1326,281,0.64,Unsafe,2453528
+Sama,101,Urban,7080,6075,0.9,Safe,9767726
+P N Marg,124,Urban,2398,5893,0.5,Unsafe,5952874
+Sama,164,Rural,7393,8387,0.55,Safe,7943106
+Thaltej,194,Rural,7134,6977,0.29,Unsafe,9316691
+Amin Marg,75,Rural,3386,3493,0.4,Unsafe,5846055
+Bhayani Ni Waadi,16,Urban,1317,4003,0.84,Unsafe,1197208
+Jambusar,12,Urban,8202,2217,0.11,Unsafe,4902266
+Ghogha Circle,1,Urban,8643,5418,0.46,Unsafe,5846397
+Vastrapur,17,Urban,6552,4524,0.75,Unsafe,251165
+Sayajigunj,143,Rural,8591,5427,0.23,Unsafe,5359176
+Ghatlodia,151,Suburban,3037,6248,0.36,Safe,190635
+Borsad,76,Suburban,2476,894,0.64,Safe,7258811
+Fatehgunj,59,Suburban,8278,4124,0.91,Safe,9300891
+Chandkheda,57,Suburban,9549,5858,0.03,Safe,8001305
+Alka Society,175,Suburban,7979,1117,0.36,Safe,1129098
+Sector 24,181,Suburban,7838,2283,0.39,Unsafe,1433664
+Sarkhej,69,Suburban,8254,1219,0.79,Safe,7565693
+Bhakti Nagar,150,Rural,8290,3789,0.69,Safe,2208961
+Gotri,15,Rural,9221,6766,0.8,Safe,7057769
+Kalanala,45,Suburban,6745,7153,0.21,Unsafe,187640
+Zanzarda Road,146,Rural,3648,6745,0.61,Unsafe,8498568
+Waghodia Road,177,Rural,5086,9779,0.49,Unsafe,5223987
+Vallabh Nagar,7,Urban,1886,1293,0.75,Safe,779024
+Park Colony,38,Rural,2426,35,0.49,Unsafe,687976
+Athwa,166,Rural,8497,1597,0.25,Unsafe,189148
+Sector 16,75,Rural,5230,3023,0.53,Safe,8759259
+Air Force Area,182,Urban,552,9613,0.28,Safe,1511742
+Vastrapur,7,Urban,8775,8763,0.35,Safe,5055537
+Palej,36,Suburban,6174,1168,0.47,Unsafe,7444781
+Lambhvel,92,Urban,2345,5304,0.39,Safe,5440908
+Bhakti Nagar,91,Urban,350,3109,0.12,Safe,6791105
+Sarkhej,66,Urban,3324,7819,0.97,Safe,6080372
+Bodakdev,183,Rural,9877,9125,0.11,Safe,5796968
+Sector 24,189,Urban,4018,775,0.56,Safe,2057655
+Rander,127,Suburban,934,3600,0.29,Unsafe,1797670
+Rander,101,Rural,285,3858,0.08,Unsafe,5498449
+Joshipura,85,Urban,8351,1088,0.95,Unsafe,9367536
+Joshipura,126,Suburban,78,9651,0.85,Safe,6736356
+Digvijay Plot,57,Suburban,1262,7987,0.84,Safe,7207107
+Sector 28,174,Suburban,7455,6931,0.88,Unsafe,8201983
+Malaviya Nagar,163,Urban,388,4574,0.81,Safe,5770301
+Sector 29,187,Urban,4605,6274,0.76,Unsafe,6814085
+Race Course,69,Rural,6136,3937,0.89,Unsafe,9594131
+University Road,105,Suburban,6344,554,0.54,Safe,9115862
+Sector 24,159,Rural,5873,4535,0.91,Safe,9273766
+Dahej,57,Urban,2950,5648,0.4,Safe,9212175
+Alkapuri,180,Rural,5104,7072,0.68,Unsafe,4339198
+K V Road,58,Rural,8832,5337,0.36,Safe,7023947
+Chitra,17,Suburban,370,4860,0.82,Unsafe,9518727
+Ranjit Sagar Road,121,Rural,3032,4770,0.28,Safe,3260202
+Air Force Area,4,Rural,8771,6302,0.95,Unsafe,7091953
+Anklav,136,Urban,8808,2074,0.3,Unsafe,8438025
+Bedi Road,108,Suburban,8253,9468,0.83,Unsafe,9013353
+Sarkhej,130,Rural,3051,8549,0.39,Unsafe,9881451
+Gondal Road,171,Suburban,5746,3165,0.89,Safe,2998461
+Joshipura,113,Rural,6422,3675,0.49,Safe,7858819
+Nirmal Nagar,68,Suburban,5341,9118,0.76,Safe,8871945
+Varachha,12,Suburban,8802,15,0.36,Unsafe,1643027
+Bhutkhana Chowk,163,Rural,1526,4282,0.1,Safe,8764948
+Bhavnath,71,Rural,9045,9045,0.09,Unsafe,5156632
+K V Road,148,Rural,3188,4025,0.61,Unsafe,8725325
+Vallabh Nagar,110,Suburban,2296,123,0.46,Safe,5274315
+Bhatar,12,Rural,9289,7734,0.74,Unsafe,8118248
+Nirmal Nagar,54,Rural,6189,8110,0.67,Safe,2369990
+Dahej,168,Rural,9300,8780,0.26,Safe,3293319
+Rajkot Raiya Road,180,Urban,276,8122,0.03,Safe,166396
+Maninagar,45,Urban,1390,4606,0.29,Safe,518326
+Kalanala,73,Rural,2184,6753,0.2,Unsafe,5749051
+Amin Marg,23,Rural,120,3793,0.88,Safe,7392792
+Satellite,4,Rural,1116,3706,0.47,Unsafe,7485154
+Zadeshwar,119,Rural,7711,6424,0.14,Safe,2023854
+Dahej,58,Urban,5761,8233,0.18,Unsafe,7204273
+Sarkhej,34,Suburban,6532,2203,0.1,Safe,1966195
+Tarsali,154,Urban,7898,622,0.3,Unsafe,5666006
+Vallabh Nagar,82,Rural,4094,7550,0.22,Unsafe,6527492
+Sector 25,64,Rural,306,617,0.99,Unsafe,4432193
+Kalanala,46,Suburban,1153,9755,0.79,Unsafe,6463904
+Udhna,92,Suburban,7124,8524,0.54,Safe,3309952
+Malaviya Nagar,78,Suburban,5434,7751,0.95,Safe,9760912
+Thaltej,1,Urban,3585,3098,0.04,Unsafe,5104158
+Bodakdev,155,Suburban,6424,9855,0.79,Safe,7718089
+Udhna,187,Rural,4606,5204,0.87,Safe,6232834
+Bhavnath,110,Rural,7482,8986,0.99,Unsafe,7530719
+Fatehgunj,109,Rural,957,5628,0.19,Safe,7237620
+Bodakdev,125,Rural,2788,319,0.79,Safe,986527
+Chandkheda,84,Urban,1348,5403,0.46,Unsafe,2036572
+Amod,27,Suburban,1486,8785,0.98,Unsafe,1749750
+Chandkheda,142,Suburban,3757,8612,0.97,Unsafe,1434376
+Mavdi,192,Urban,3088,6784,0.68,Safe,8957340
+Ankleshwar GIDC,54,Rural,3538,8374,0.78,Unsafe,1114418
+Boriavi,148,Suburban,3975,8227,0.76,Unsafe,3008518
+Ankleshwar GIDC,143,Urban,3344,6866,0.09,Safe,2830650
+Nirmal Nagar,16,Rural,6137,7109,0.15,Safe,1783324
+Pal,163,Suburban,8139,5633,0.65,Unsafe,6857262
+Alkapuri,61,Suburban,1179,8306,0.21,Unsafe,6161630
+Sabarmati,68,Suburban,482,8168,0.48,Safe,1736457
+Chitra,169,Urban,30,4024,0.29,Safe,6115580
+Digvijay Plot,98,Suburban,5684,4275,0.1,Unsafe,4938124
+Adajan,101,Suburban,4656,5121,0.31,Unsafe,1696310
+Subhanpura,178,Urban,2135,4410,0.92,Unsafe,4884173
+Athwa,57,Urban,6611,1450,0.08,Unsafe,1028872
+Sector 23,200,Rural,8992,7655,0.31,Unsafe,4254070
+Ghanshyam Nagar,84,Urban,9440,6089,0.79,Safe,5712900
+Alka Society,72,Urban,5813,6542,0.57,Unsafe,4969273
+Nirmal Nagar,191,Rural,518,7563,0.87,Safe,6202111
+Kalwa Chowk,1,Suburban,1188,7480,0.32,Safe,9479011
+Adajan,182,Rural,4309,9891,0.24,Safe,3531052
+Bhatar,52,Suburban,2729,85,0.9,Unsafe,1020417
+Boriavi,92,Suburban,7208,8863,0.75,Unsafe,3904097
+Dhoraji Road,40,Rural,2746,1972,0.88,Safe,6572213
+Fatehgunj,139,Urban,6644,2091,0.88,Safe,4880146
+Sector 28,82,Rural,4985,2895,0.89,Safe,5831119
+Ghogha Road,197,Rural,2935,3164,0.18,Unsafe,3506052
+Jhagadia,93,Suburban,999,8619,0.36,Unsafe,2189378
+Green City,75,Suburban,1333,6319,0.11,Safe,439174
+Kalavad Road,154,Rural,1974,7913,0.9,Unsafe,4683910
+Bhayani Ni Waadi,140,Urban,4746,4222,0.35,Safe,3039172
+Vidyanagar,41,Urban,3261,1663,0.32,Safe,9394566
+Sector 21,101,Suburban,2559,4001,0.08,Unsafe,7622102
+Patel Colony,173,Rural,9036,5683,0.68,Safe,5787271
+Jambusar,95,Suburban,3131,4212,0.4,Safe,2865641
+Vidyanagar,171,Urban,8707,4754,0.75,Safe,4622579
+Borsad,13,Urban,6023,7409,0.87,Unsafe,2973387
+Mavdi,43,Rural,8744,6163,0.04,Unsafe,4439380
+Sabarmati,136,Urban,5079,6086,0.11,Safe,3484212
+Udhna,0,Suburban,3511,9695,0.43,Safe,7131123
+Nirmal Nagar,32,Suburban,8317,2154,0.39,Unsafe,6660395
+Sector 28,154,Urban,2543,8166,0.98,Unsafe,6087625
+Vidyanagar,145,Rural,8784,7936,0.05,Safe,3729344
+Sector 23,31,Suburban,1828,6816,0.83,Unsafe,3492207
+Dhoraji Road,66,Urban,3973,6547,0.58,Safe,8437175
+Bharuch Narmada Road,92,Urban,77,2362,0.09,Unsafe,484740
+Boriavi,82,Suburban,3277,7459,1.0,Safe,1543931
+Sector 25,184,Rural,7112,3989,0.5,Unsafe,7459079
+Ghanshyam Nagar,200,Rural,8142,9259,0.29,Unsafe,2676191
+Morbi Road,177,Urban,4319,8961,0.47,Unsafe,1716273
+Gotri,132,Suburban,1370,9126,0.12,Unsafe,9319333
+Digvijay Plot,139,Rural,3674,8306,0.05,Safe,393399
+Piplod,23,Rural,3670,7462,0.42,Unsafe,2948712
+Adajan,174,Urban,8796,4622,0.06,Unsafe,5840282
+Fatehgunj,166,Rural,4882,7346,0.25,Safe,5047528
+K V Road,155,Urban,9576,293,0.22,Safe,6731532
+Vadtal,152,Suburban,7236,321,0.08,Unsafe,7745386
+Park Colony,114,Suburban,7503,2429,0.42,Safe,954465
+Bodakdev,107,Rural,7508,6179,0.95,Safe,5963941
+Sector 21,94,Rural,5401,5085,0.89,Safe,2108406
+Chitra,127,Urban,7796,4011,0.86,Unsafe,1422232
+Vesu,5,Rural,4745,256,0.89,Safe,5978900
+Sector 23,115,Rural,5553,2196,0.75,Unsafe,3268030
+Varachha,160,Urban,7351,7749,0.55,Safe,6990910
+Nirmal Nagar,157,Rural,5105,9486,0.11,Safe,4978383
+Lambhvel,5,Rural,293,5948,0.97,Unsafe,4421351
+Sector 16,29,Urban,2263,7923,0.31,Unsafe,8543313
+Old NH-8,189,Rural,9240,4513,0.7,Safe,2921449
+Pal,163,Suburban,6784,8602,0.52,Unsafe,6670462
+Kasak Circle,73,Rural,9457,9023,0.28,Safe,9438897
+Zanzarda Road,132,Rural,2976,6092,0.43,Safe,1042726
+Sector 16,97,Suburban,5578,1425,0.59,Unsafe,882453
+Vastrapur,109,Urban,1706,3487,0.23,Safe,9206053
+Ankleshwar GIDC,188,Suburban,2823,4635,0.32,Unsafe,1197610
+Digvijay Plot,83,Suburban,4914,9125,0.68,Safe,8608336
+P N Marg,114,Rural,8241,4258,0.7,Unsafe,6585743
+Borsad,159,Suburban,2048,9598,0.22,Safe,2980968
+Khambhat,5,Suburban,3352,267,0.38,Unsafe,1277684
+P N Marg,13,Suburban,1035,7146,0.21,Unsafe,4121051
+Sector 28,84,Urban,6153,950,0.1,Safe,9224126
+Sama,13,Rural,8299,3584,0.83,Unsafe,2485347
+Nirmal Nagar,25,Suburban,9775,6975,0.94,Safe,6501516
+Ghogha Circle,198,Rural,4586,5609,0.6,Unsafe,6030868
+Patel Colony,130,Urban,1137,7958,0.92,Safe,8310128
+Khambhat,167,Urban,4558,6589,0.33,Unsafe,5460677
+Sector 28,127,Rural,2939,4134,0.98,Unsafe,5161277
+Sector 23,65,Suburban,7235,5890,0.3,Safe,7534816
+Adajan,17,Suburban,6230,5481,0.25,Safe,9604942
+Race Course,128,Suburban,4762,9,0.18,Safe,3006607
+Sector 21,166,Urban,6956,8586,0.11,Unsafe,2689804
+Sayajigunj,169,Urban,342,2359,0.03,Unsafe,985158
+Kalavad Road,171,Urban,6985,8975,0.93,Safe,3406076
+Dumas,179,Urban,1003,7917,0.83,Unsafe,8898689
+Sama,105,Rural,7524,7278,0.88,Unsafe,2650155
+Sector 24,172,Suburban,7334,8870,0.53,Safe,2079697
+Waghodia Road,123,Rural,3802,781,0.62,Unsafe,2937053
+Morbi Road,29,Suburban,5220,1614,0.47,Safe,3783870
+Rander,198,Suburban,4526,1712,0.54,Safe,6266582
+Sector 25,31,Rural,6042,309,0.25,Unsafe,3082455
+Karelibaug,80,Rural,7490,8055,0.49,Unsafe,3393829
+Maninagar,120,Urban,3781,1786,0.7,Safe,5671227
+Fatehgunj,16,Rural,3752,1862,0.2,Safe,9213912
+Chandkheda,166,Urban,3415,2387,0.8,Safe,1680934
+Sector 17,116,Rural,2969,2130,0.56,Unsafe,8355235
+Green City,138,Suburban,9775,1453,0.49,Unsafe,7100381
+Bedi Road,103,Urban,9003,3226,0.38,Unsafe,1410325
+Sabarmati,132,Rural,6238,3800,0.9,Unsafe,983608
+Sabarmati,197,Rural,992,5504,0.55,Unsafe,5902058
+Jambusar,70,Suburban,23,3028,0.3,Safe,3680865
+Rander,65,Urban,5526,9233,0.26,Safe,6041382
+Bhayani Ni Waadi,159,Urban,606,5007,0.5,Unsafe,3828835
+Morbi Road,115,Rural,156,4913,0.44,Unsafe,268059
+Chitra,163,Rural,8038,2914,0.99,Unsafe,4705093
+Palej,135,Rural,1562,2736,0.42,Safe,7405810
+Sector 17,6,Urban,240,7308,0.03,Unsafe,5283982
+Rajkot Raiya Road,65,Urban,3141,8588,0.11,Unsafe,849958
+Dahej,140,Suburban,6517,8859,0.3,Safe,306389
+Thaltej,85,Suburban,7873,152,0.1,Unsafe,210286
+Bedi Road,165,Rural,6057,7630,0.27,Unsafe,1703733
+Bhayani Ni Waadi,165,Urban,7028,2883,0.09,Safe,5988854
+Sector 30,120,Rural,6483,387,0.47,Unsafe,8754937
+Digvijay Plot,139,Suburban,3121,2464,0.12,Safe,7681545
+Satellite,136,Suburban,9063,5574,0.47,Unsafe,2652603
+Sector 16,12,Suburban,9245,2341,0.0,Safe,9873639
+Jambusar,151,Suburban,9779,1303,0.04,Unsafe,9079859
+Sector 24,68,Urban,4371,3397,0.79,Unsafe,1409276
+Digvijay Plot,178,Urban,8365,1689,0.08,Safe,464189
+Old NH-8,189,Urban,1230,5645,0.59,Unsafe,1107114
+Satellite,48,Rural,8410,6643,0.59,Unsafe,7553426
+Sayajigunj,27,Urban,7558,1262,0.44,Unsafe,5535319
+Park Colony,68,Suburban,9145,9586,0.25,Unsafe,1520400
+Sayajigunj,116,Rural,9629,9009,0.52,Unsafe,1217997
+Gotri,72,Suburban,1880,9191,0.11,Safe,1756929
+Vadtal,174,Urban,3715,5203,0.13,Safe,4843460
+Chitra,192,Rural,9793,3151,0.51,Safe,1168701
+Alkapuri,197,Suburban,721,8823,0.13,Safe,701010
+Bhutkhana Chowk,168,Suburban,373,4256,0.94,Safe,9977445
+Mavdi,162,Urban,3136,1906,0.73,Unsafe,835080
+Ankleshwar GIDC,176,Rural,2,2173,0.57,Unsafe,9678694
+Naranpura,47,Rural,7437,3703,0.68,Safe,4223063
+Palej,130,Suburban,840,962,0.18,Safe,9033843
+Ghatlodia,35,Suburban,677,1988,0.18,Safe,7153695
+Bharuch Narmada Road,192,Suburban,8519,8793,0.64,Safe,7199127
+Fatehgunj,57,Suburban,5372,4913,0.99,Unsafe,4351274
+Talav Gate,75,Suburban,5214,8811,0.94,Safe,3006983
+Green City,175,Urban,4944,2162,0.19,Unsafe,3388064
+Nirmal Nagar,11,Rural,2814,1939,0.09,Safe,285659
+Kalawad Road,8,Suburban,7101,1422,0.05,Unsafe,2708086
+Boriavi,20,Rural,1270,5221,0.09,Unsafe,3432229
+Bodakdev,60,Rural,8441,2760,0.16,Unsafe,2173243
+P N Marg,3,Suburban,1064,8752,0.73,Safe,5861071
+Maninagar,189,Rural,9336,2945,0.56,Unsafe,3274589
+Gondal Road,59,Urban,4467,4619,0.86,Unsafe,5146924
+Piplod,97,Suburban,3967,733,0.94,Safe,8598961
+Sector 26,184,Rural,7707,5633,0.69,Unsafe,6780715
+Palej,195,Rural,9056,5164,0.5,Unsafe,1482563
+Gondal Road,80,Suburban,9044,7571,0.08,Safe,1117970
+Sayajigunj,6,Rural,2164,1180,0.13,Safe,9181126
+Sector 21,188,Rural,5192,8747,0.66,Unsafe,9508466
+Bharuch Narmada Road,72,Rural,390,5456,0.3,Unsafe,7070617
+Jambusar,20,Urban,524,466,0.44,Safe,6684768
+Vadtal,149,Suburban,7956,7539,0.48,Safe,4703389
+Kalavad Road,176,Rural,7190,8157,0.43,Safe,8052596
+Patel Colony,141,Suburban,9050,3991,0.13,Safe,6810714
+Sector 23,133,Urban,9175,9819,0.76,Safe,9113530
+Bedi Road,142,Urban,3426,4130,0.12,Safe,5186149
+Ghogha Circle,59,Urban,8260,933,0.52,Safe,4821138
+Ghanshyam Nagar,67,Rural,117,6300,0.22,Safe,692117
+Bodakdev,18,Rural,6760,2855,0.11,Safe,9506231
+Vadtal,60,Suburban,9416,2243,0.22,Unsafe,4542043
+Old NH-8,98,Suburban,6788,9755,0.12,Safe,6032036
+Kalawad Road,113,Suburban,4279,2428,0.83,Safe,6835847
+Sector 26,84,Rural,6208,1083,0.56,Unsafe,8010840
+Chitra,14,Urban,1750,9552,0.32,Safe,3103967
+Upperkot,3,Suburban,7182,2651,0.53,Safe,7619572
+Kalawad Road,13,Suburban,6960,6527,0.56,Safe,5814368
+Zadeshwar,184,Suburban,2119,3583,0.81,Unsafe,2252131
+Sector 17,28,Rural,2107,3540,0.15,Safe,3861021
+Gotri,94,Urban,1604,3285,0.28,Unsafe,9717453
+Vesu,115,Urban,8339,8135,0.32,Safe,152163
+Bhatar,114,Urban,179,1955,0.55,Unsafe,6796779
+Jambusar,80,Rural,4459,3441,0.55,Unsafe,9007138
+Park Colony,132,Suburban,4900,3985,0.53,Safe,230049
+Upperkot,138,Suburban,4834,2867,0.53,Unsafe,2263167
+Thaltej,53,Urban,1897,5274,0.33,Unsafe,8423829
+Bodakdev,130,Rural,6463,1260,0.09,Safe,9534736
+Vallabh Nagar,1,Rural,3264,6791,0.37,Unsafe,615588
+Subhash Nagar,89,Suburban,1613,7212,0.15,Unsafe,9040207
+Jambusar,146,Suburban,7562,9281,0.51,Safe,8762001
+Bhayani Ni Waadi,134,Rural,9483,281,0.24,Safe,278935
+Udhna,71,Suburban,2288,3255,0.26,Safe,3565560
+Akota,130,Urban,4744,4030,0.64,Safe,1978952
+Varachha,197,Suburban,2702,4847,0.08,Safe,5336333
+Sector 17,195,Urban,7459,9647,0.89,Unsafe,4978496
+Maninagar,141,Suburban,8805,9421,0.47,Unsafe,3096020
+Zadeshwar,27,Suburban,8425,4741,0.93,Safe,8542587
+Varachha,13,Suburban,8396,4273,0.54,Unsafe,1820980
+Alkapuri,124,Suburban,9192,1840,0.09,Safe,3941419
+University Road,89,Urban,5151,4442,0.45,Unsafe,9319370
+Khambhat,189,Urban,1598,5864,0.37,Unsafe,3347655
+Kalanala,163,Urban,3618,2170,0.07,Safe,2765302
+Sector 28,47,Suburban,7230,2983,0.41,Unsafe,7462102
+Gotri,76,Rural,5065,3538,0.08,Safe,3935050
+Upperkot,106,Urban,4280,7093,0.67,Unsafe,8786195
+Patel Colony,170,Urban,9051,6015,0.5,Safe,8886453
+Joshipura,90,Urban,7342,2960,0.33,Safe,8283956
+Satellite,18,Rural,6508,8434,0.39,Unsafe,7156554
+Jhagadia,159,Urban,197,106,0.97,Safe,471011
+Bedi Road,146,Urban,493,9527,0.81,Safe,4030398
+Chandkheda,117,Rural,9640,8660,0.92,Unsafe,1921097
+Vastrapur,182,Rural,6380,5310,0.8,Safe,2072144
+Waghodia Road,72,Urban,6138,6477,0.33,Unsafe,8896304
+Sector 26,42,Rural,3854,3167,0.57,Unsafe,2683950
+Maninagar,66,Rural,4796,3479,0.28,Unsafe,9527010
+Amod,57,Suburban,2645,2226,0.71,Unsafe,538755
+Gotri,177,Urban,2166,4182,0.42,Unsafe,1186972
+Ghogha Road,24,Urban,2660,7948,0.19,Unsafe,6331217
+Rander,160,Suburban,451,2460,0.93,Unsafe,5841259
+Sama,164,Rural,6456,8848,0.53,Unsafe,6340136
+Vesu,11,Rural,805,7751,0.16,Safe,5715411
+Bhakti Nagar,43,Suburban,6809,3806,0.8,Safe,5668681
+Sector 28,32,Rural,2206,2805,0.7,Safe,4735548
+Piplod,37,Urban,3407,4556,0.64,Unsafe,8963203
+Nirmal Nagar,157,Urban,3640,5595,0.17,Safe,4210759
+Alka Society,16,Rural,4176,6058,0.45,Safe,9447383
+Ankleshwar GIDC,192,Urban,5597,5141,0.44,Unsafe,1644786
+Amod,148,Suburban,4672,1932,0.75,Unsafe,7325843
+Ghogha Road,55,Urban,4162,1761,0.64,Unsafe,2050951
+K V Road,165,Urban,4863,4763,0.73,Safe,7227490
+Sector 29,25,Suburban,5733,3492,0.94,Safe,6895703
+Sector 25,40,Rural,468,9325,0.5,Safe,6246203
+Upperkot,68,Suburban,550,1572,0.05,Unsafe,1719099
+Gotri,90,Suburban,3910,9907,0.47,Safe,6577311
+Joshipura,175,Urban,3678,862,0.67,Safe,8781323
+Sayajigunj,15,Urban,4516,2426,0.06,Unsafe,1228597
+Bedi Road,29,Rural,1908,1676,0.68,Unsafe,1599567
+Rajkot Raiya Road,111,Urban,8327,9610,1.0,Unsafe,2714750
+University Road,165,Urban,1873,2904,0.51,Unsafe,6579261
+Sayajigunj,52,Suburban,5152,6454,0.57,Safe,1469366
+Ghanshyam Nagar,78,Rural,7128,2714,0.85,Unsafe,4364411
+Kalavad Road,58,Rural,1123,251,0.03,Safe,686638
+Ghogha Circle,138,Rural,980,4291,0.28,Safe,9157578
+Ranjit Sagar Road,190,Suburban,6687,6637,0.04,Safe,9494574
+Bhutkhana Chowk,72,Rural,875,4517,0.75,Safe,6231372
+Kalanala,103,Urban,8342,1555,0.59,Safe,9751283
+Tarsali,1,Rural,8638,7543,0.24,Unsafe,4947003
+Malaviya Nagar,111,Suburban,5067,4673,0.54,Unsafe,295275
+K V Road,48,Urban,5406,5660,0.52,Unsafe,6601361
+Sayajigunj,54,Suburban,8596,7736,0.52,Safe,467052
+Sayajigunj,49,Rural,9441,8773,0.14,Unsafe,8166625
+Kalanala,131,Suburban,4226,5633,0.02,Unsafe,3278949
+Race Course,4,Suburban,5218,9454,0.05,Safe,6831403
+Talav Gate,128,Urban,8347,2478,0.9,Safe,2770105
+Gotri,121,Urban,7330,6232,0.84,Safe,4148204
+Bhavnath,10,Urban,7941,1675,0.24,Safe,8334172
+Chandkheda,138,Urban,7626,8572,0.1,Unsafe,4326026
+Mavdi,54,Rural,7813,2539,0.13,Safe,3185223
+Kalwa Chowk,190,Rural,2215,8256,0.96,Unsafe,6147640
+Sector 25,106,Rural,9663,3003,0.6,Safe,9329147
+Rander,11,Urban,3277,6623,0.34,Unsafe,501066
+Sector 17,101,Rural,9360,6966,0.94,Safe,6613131
+Bhalej,189,Suburban,4982,9615,0.53,Unsafe,7425575
+Bhatar,71,Urban,9729,6971,0.67,Unsafe,9389387
+Sector 30,17,Suburban,6816,3388,0.09,Unsafe,3145296
+Upperkot,140,Rural,6131,7055,0.24,Safe,6863663
+Rander,198,Suburban,7286,376,0.39,Safe,2672878
+University Road,174,Rural,4090,4120,0.85,Unsafe,2112251
+Kalwa Chowk,17,Suburban,4311,4709,0.69,Safe,9280069
+Air Force Area,126,Rural,2039,5651,0.27,Unsafe,6206462
+Varachha,147,Urban,4021,6529,0.31,Unsafe,5973988
+Kalwa Chowk,85,Urban,5202,8940,0.73,Safe,3069053
+Karamsad,67,Urban,3029,6516,0.68,Unsafe,2359147
+Park Colony,67,Suburban,1464,8602,0.29,Safe,6928239
+Palej,164,Rural,967,7970,0.15,Unsafe,6059064
+P N Marg,88,Rural,6756,2582,0.16,Unsafe,8440168
+Kalanala,194,Suburban,835,2716,0.25,Safe,5625850
+Gotri,63,Urban,6178,9473,0.02,Safe,5103202
+Waghodia Road,120,Rural,4585,6163,0.77,Safe,8255986
+Air Force Area,56,Urban,2559,3412,0.84,Unsafe,2358587
+Zanzarda Road,138,Suburban,2433,2493,0.79,Safe,6415700
+Mavdi,151,Suburban,260,4559,0.23,Unsafe,5768866
+Rander,14,Suburban,2457,6864,0.62,Unsafe,8931190
+Satellite,95,Urban,3431,4901,0.98,Safe,9835725
+Morbi Road,138,Suburban,3654,2354,0.6,Unsafe,8587068
+Bhakti Nagar,28,Suburban,6619,1679,0.06,Safe,1322453
+Palej,65,Rural,1221,3316,0.58,Unsafe,8600879
+Bhutkhana Chowk,71,Suburban,4798,887,0.19,Safe,3336948
+Udhna,62,Urban,8241,9784,0.57,Safe,4027014
+Ranjit Sagar Road,75,Urban,7050,8738,0.21,Safe,3721413
+Bhayani Ni Waadi,24,Urban,2518,3813,0.01,Unsafe,4453507
+Fatehgunj,44,Urban,8066,7891,0.65,Unsafe,4132239
+Kalwa Chowk,197,Suburban,941,7370,0.94,Unsafe,4955011
+Athwa,160,Rural,5684,6845,0.62,Safe,5199338
+Old NH-8,125,Rural,303,2468,0.81,Unsafe,6302951
+Girnar Darwaza,146,Urban,9473,265,0.44,Safe,568902
+Subhash Nagar,73,Rural,8211,7628,0.24,Unsafe,181957
+Sector 17,117,Suburban,1245,7890,0.58,Safe,1732176
+Chitra,162,Suburban,3936,3837,0.26,Safe,1283428
+Gotri,36,Suburban,5565,3201,0.89,Unsafe,4429030
+Chandkheda,88,Suburban,3804,922,0.01,Unsafe,1713265
+Sabarmati,191,Urban,3206,790,0.19,Safe,7446062
+Dumas,52,Suburban,1751,6677,0.63,Safe,9118144
+Sector 17,166,Suburban,8363,2112,0.23,Unsafe,8208488
+Patel Colony,196,Urban,9890,1551,0.42,Safe,5813629
+Sector 26,103,Suburban,8968,8141,0.08,Safe,1709723
+Thaltej,165,Urban,6289,8637,0.94,Safe,5612708
+Dhoraji Road,24,Rural,7719,5461,0.31,Safe,4556193
+Khambhat,124,Suburban,1971,667,0.93,Safe,5862286
+Amin Marg,142,Rural,7814,5184,0.81,Unsafe,9231994
+Gondal Road,137,Urban,5480,8726,0.2,Safe,1790371
+Palej,94,Rural,6609,5639,0.7,Safe,8617127
+Sector 29,158,Suburban,6428,5309,0.8,Safe,7285807
+Karelibaug,19,Suburban,9972,9675,0.17,Unsafe,7612669
+Gotri,115,Suburban,5467,8061,0.96,Safe,6005294
+Boriavi,29,Urban,7344,47,0.7,Safe,7243733
+Naranpura,179,Urban,5540,5688,0.4,Safe,5284604
+Palej,142,Suburban,9743,3576,0.01,Safe,2226688
+Zanzarda Road,7,Suburban,3465,1955,0.94,Unsafe,941715
+Joshipura,185,Suburban,1976,5889,0.66,Safe,2550673
+Bharuch Narmada Road,145,Rural,1659,6196,0.93,Unsafe,7307120
+Ghogha Road,18,Rural,458,6916,0.19,Safe,7536799
+Kalawad Road,117,Urban,9576,7186,0.85,Safe,895167
+Ghatlodia,54,Suburban,7469,1025,0.94,Safe,1131935
+Chitra,56,Urban,2878,8317,0.89,Unsafe,4075174
+Subhash Nagar,42,Suburban,5775,5663,0.5,Unsafe,7696861
+Amin Marg,182,Urban,7774,9886,0.0,Safe,7854142
+Chitra,95,Suburban,2879,7474,0.91,Safe,6030056
+Akota,73,Suburban,4339,5862,0.45,Unsafe,2757526
+Sector 30,164,Urban,8801,27,0.76,Safe,4290744
+Upperkot,37,Rural,8736,7219,0.54,Safe,9212763
+Bhayani Ni Waadi,20,Rural,1532,9842,0.42,Safe,2732662
+Malaviya Nagar,122,Suburban,4058,4254,0.68,Unsafe,7788073
+Kalavad Road,152,Rural,2313,9915,0.19,Safe,5970630
+Dahej,198,Rural,7939,5112,0.37,Safe,8716720
+Jhagadia,65,Urban,7895,8094,0.95,Unsafe,7298035
+Ghanshyam Nagar,35,Suburban,6093,9803,0.54,Unsafe,6522950
+Gotri,182,Urban,4501,4635,0.26,Unsafe,2279712
+Kalanala,127,Suburban,2564,4420,0.77,Unsafe,991168
+Karelibaug,172,Rural,1491,27,0.44,Safe,2194773
+Dhoraji Road,53,Suburban,1803,4556,0.17,Safe,6101989
+Kalawad Road,77,Suburban,2801,9331,0.87,Safe,5340408
+P N Marg,198,Suburban,489,2009,0.18,Unsafe,4568603
+Subhash Nagar,160,Suburban,9784,71,0.44,Safe,941678
+Varachha,101,Urban,4798,680,0.88,Unsafe,9991699
+Chitra,22,Rural,9585,1065,0.25,Unsafe,5137189
+Lambhvel,140,Suburban,8556,1100,0.93,Unsafe,5198221
+Vadtal,51,Rural,8553,5601,0.84,Safe,6401830
+Vesu,183,Suburban,4077,4481,0.44,Safe,1533320
+Kalanala,157,Rural,3585,6626,0.47,Unsafe,828376
+Mavdi,41,Suburban,82,7542,0.75,Unsafe,4954400
+Thaltej,154,Suburban,8743,7091,0.48,Safe,225688
+Ghanshyam Nagar,84,Urban,2876,8957,0.45,Safe,2648912
+Bedi Road,79,Urban,8124,9652,0.86,Unsafe,5974869
+Morbi Road,88,Suburban,6545,5706,0.08,Unsafe,6780222
+Akota,106,Rural,6208,7577,0.75,Safe,8174836
+Gondal Road,30,Urban,4735,3810,0.91,Safe,3268122
+Patel Colony,93,Urban,8219,5899,0.83,Unsafe,8521458
+Piplod,18,Suburban,5674,5317,0.52,Safe,188521
+Joshipura,84,Rural,560,2911,0.99,Unsafe,2068329
+Waghodia Road,105,Rural,3548,5599,0.4,Unsafe,4987031
+Bhatar,80,Suburban,6621,8313,0.48,Unsafe,4706343
+Ranjit Sagar Road,13,Urban,3319,1658,0.56,Unsafe,2805099
+Bharuch Narmada Road,170,Urban,9215,5244,0.84,Safe,5622577
+Jhagadia,130,Suburban,5353,3596,0.52,Unsafe,8730270
+Karelibaug,82,Rural,2280,4313,0.67,Safe,9327032
+Vallabh Vidyanagar,65,Urban,7670,2777,0.61,Safe,8022792
+Mavdi,37,Urban,3987,2772,0.71,Safe,8299333
+Sector 29,117,Urban,8307,9413,0.31,Safe,9108045
+Bodakdev,198,Rural,4794,8408,0.57,Safe,8903283
+Athwa,63,Urban,5630,535,0.56,Safe,4118340
+Udhna,104,Suburban,9455,1722,0.07,Safe,2378236
+Girnar Darwaza,66,Suburban,5393,674,0.77,Safe,7780011
+Jambusar,99,Urban,7009,1787,0.69,Safe,6620310
+Borsad,115,Urban,8308,9027,0.47,Safe,5001338
+Joshipura,175,Rural,8643,5350,0.44,Unsafe,4616072
+Bedi Road,50,Rural,8087,9725,0.76,Unsafe,7866477
+Bhatar,173,Urban,9578,3966,0.34,Unsafe,2992768
+Vallabh Nagar,31,Urban,5960,3916,0.2,Safe,2497460
+Boriavi,91,Urban,3889,2422,0.94,Unsafe,394312
+Sector 25,198,Rural,176,411,0.11,Unsafe,7621643
+Tarsali,107,Suburban,947,5392,0.69,Unsafe,9651916
+Bedi Road,131,Suburban,3187,7819,0.39,Unsafe,4013757
+Alka Society,128,Urban,7172,7800,0.48,Unsafe,6519407
+Bhavnath,19,Urban,7340,8073,0.48,Unsafe,8010424
+Bhavnath,138,Urban,1698,5120,0.35,Safe,6823976
+Rajkot Raiya Road,90,Rural,4754,4304,0.57,Safe,8321086
+Dahej,163,Rural,6838,3405,0.24,Unsafe,780325
+Amin Marg,31,Suburban,3095,9609,0.73,Safe,1328704
+Old NH-8,149,Urban,7637,1916,0.54,Safe,6103254
+Bhatar,44,Urban,4860,2895,0.05,Safe,3134088
+Udhna,155,Rural,2034,4447,0.37,Unsafe,7064524
+Ghogha Circle,99,Suburban,8331,8947,0.64,Safe,8178896
+Mavdi,164,Suburban,334,7239,0.06,Safe,2808019
+Lambhvel,15,Suburban,3885,9071,0.42,Safe,3791340
+K V Road,176,Urban,3169,3108,0.73,Unsafe,8763801
+Sarkhej,36,Suburban,686,9069,0.15,Unsafe,1617615
+Girnar Darwaza,163,Suburban,6965,3082,0.65,Safe,3728472
+Rander,147,Suburban,761,2462,0.62,Safe,8491333
+Bhakti Nagar,164,Urban,5104,4197,0.56,Safe,9517247
+Sector 24,200,Suburban,784,5841,0.04,Safe,2853197
+University Road,148,Suburban,3125,6590,0.42,Unsafe,9495003
+Lambhvel,186,Suburban,1611,9592,0.26,Unsafe,5144978
+Dhoraji Road,7,Rural,5623,178,0.96,Safe,3336473
+Old NH-8,34,Urban,1737,8171,0.78,Unsafe,7907968
+Piplod,36,Urban,5438,3835,0.13,Safe,7271276
+Bhayani Ni Waadi,139,Urban,6267,8319,0.0,Safe,8961757
+Ghanshyam Nagar,115,Rural,6851,4723,0.12,Safe,760465
+Rajkot Raiya Road,165,Suburban,6207,6849,0.57,Safe,2305897
+Gondal Road,24,Urban,7548,334,0.53,Safe,192952
+Ghanshyam Nagar,142,Urban,3182,7715,0.32,Safe,7881779
+Vidyanagar,82,Suburban,5871,7687,0.96,Safe,9286752
+Bhutkhana Chowk,0,Urban,4234,3905,0.56,Safe,6091567
+Sector 25,136,Suburban,872,1232,0.95,Unsafe,2346552
+Old NH-8,42,Rural,5444,3656,0.14,Safe,1589644
+Jhagadia,190,Rural,4269,9702,0.81,Unsafe,1879801
+Mavdi,33,Rural,5372,1811,0.23,Unsafe,7237504
+Bhavnath,47,Urban,4736,5382,0.2,Unsafe,7421739
+Piplod,21,Rural,2039,1038,0.26,Unsafe,4085971
+Waghodia Road,178,Urban,1767,2671,0.8,Safe,3561987
+Joshipura,95,Rural,9279,2196,0.23,Unsafe,9068501
+Sector 23,134,Suburban,8428,8020,0.76,Safe,1413610
+Dumas,184,Suburban,4547,9704,0.06,Safe,4126117
+Thaltej,193,Suburban,9195,2225,0.74,Unsafe,3446353
+Palej,132,Urban,9650,1961,0.45,Unsafe,175254
+Sector 29,20,Rural,5460,2241,0.69,Safe,5654078
+Vadtal,112,Suburban,1872,9447,0.2,Unsafe,265548
+Amod,167,Rural,4793,4857,0.3,Safe,9441622
+Air Force Area,4,Suburban,6870,6016,0.35,Unsafe,3747541
+Talav Gate,129,Rural,7497,2173,0.77,Unsafe,9628782
+Ghogha Circle,168,Rural,66,8065,0.69,Safe,8160404
+Vesu,159,Suburban,8987,1112,0.92,Unsafe,3094537
+Sector 24,124,Urban,6501,790,0.03,Safe,687584
+Bhatar,73,Urban,5691,959,0.61,Unsafe,1128071
+Borsad,80,Suburban,1996,9272,0.03,Unsafe,2143808
+Bhutkhana Chowk,48,Suburban,5171,8032,0.37,Safe,3333495
+Bhayani Ni Waadi,75,Urban,216,5839,0.77,Unsafe,3518132
+Bedi Road,59,Suburban,4837,4407,0.18,Unsafe,3215775
+Dahej,101,Urban,7529,3159,0.19,Unsafe,4969824
+Vallabh Vidyanagar,174,Rural,131,766,0.41,Unsafe,7555186
+Varachha,170,Urban,4011,7889,0.94,Safe,4152597
+University Road,162,Urban,8372,1956,0.69,Safe,183520
+Zanzarda Road,133,Rural,7460,6665,0.13,Unsafe,2921852
+Akota,23,Rural,4348,6576,0.65,Unsafe,2772971
+Patel Colony,80,Urban,3575,9905,0.59,Unsafe,3972400
+Tarsali,48,Rural,4907,2218,0.91,Safe,698987
+Bhakti Nagar,101,Urban,2703,534,0.86,Unsafe,5572292
+Patel Colony,55,Urban,5812,2718,0.56,Unsafe,1818964
+Khambhat,176,Suburban,3559,1107,0.33,Safe,1881340
+Girnar Darwaza,146,Suburban,3575,6375,0.81,Unsafe,9398705
+Kalwa Chowk,89,Urban,1530,6265,0.12,Safe,8145059
+Amod,154,Urban,9684,4777,0.16,Safe,3272246
+Akota,159,Urban,399,5314,0.72,Unsafe,3633190
+Joshipura,121,Urban,3915,5839,0.08,Unsafe,9968728
+Dahej,88,Rural,7361,4189,0.13,Safe,7702360
+Dhoraji Road,34,Suburban,3909,6320,0.26,Unsafe,482086
+Vallabh Nagar,176,Suburban,1151,2606,0.26,Unsafe,6117566
+Borsad,62,Rural,2133,4055,0.78,Safe,6229954
+Karelibaug,79,Suburban,9360,129,0.44,Safe,3510874
+Joshipura,191,Urban,4726,610,0.77,Unsafe,2725220
+Sector 26,69,Rural,6346,8423,0.71,Safe,9493877
+Bhutkhana Chowk,142,Urban,2432,5007,0.96,Unsafe,3853962
+Race Course,95,Urban,2420,9718,0.6,Unsafe,9873963
+Vadtal,18,Urban,6060,7695,0.52,Safe,1644101
+Vesu,152,Suburban,3956,8027,0.75,Safe,2173841
+Bhutkhana Chowk,130,Suburban,7028,7096,0.92,Unsafe,9706625
+Sector 29,142,Rural,3069,7702,0.59,Unsafe,4499713
+Sayajigunj,173,Urban,2307,6648,0.5,Safe,5488580
+Sector 16,81,Urban,875,5216,0.34,Unsafe,4593650
+Zanzarda Road,43,Urban,8030,2471,0.93,Safe,8978298
+Alka Society,117,Rural,9187,1611,0.23,Safe,6415152
+Kalwa Chowk,126,Suburban,4964,2327,0.13,Unsafe,8967920
+Sabarmati,49,Rural,9554,1738,0.12,Unsafe,1183444
+Bhakti Nagar,174,Urban,5881,9409,0.85,Safe,5347372
+Bhavnath,128,Suburban,4031,6641,0.29,Safe,3596588
+Ghatlodia,148,Urban,8954,9639,0.69,Unsafe,4078432
+Vallabh Nagar,36,Urban,7578,1832,0.15,Safe,3005018
+Karelibaug,52,Rural,7392,7549,0.17,Unsafe,3269696
+K V Road,16,Rural,675,8156,0.69,Safe,6590419
+Race Course,38,Rural,7013,991,0.33,Unsafe,5109449
+Old NH-8,39,Rural,6008,534,0.16,Unsafe,3527805
+Sector 24,70,Urban,695,9958,0.83,Unsafe,7238243
+Sector 16,21,Urban,5260,3286,0.62,Safe,8596452
+Bhakti Nagar,81,Suburban,8909,339,0.79,Safe,5148506
+Vastrapur,19,Suburban,1182,1118,0.48,Unsafe,5081760
+Gotri,157,Rural,5464,243,0.19,Safe,3175002
+Sector 30,50,Suburban,3485,6455,0.43,Unsafe,4944353
+Sector 28,9,Rural,7029,2362,0.79,Safe,1249652
+Talav Gate,54,Rural,8578,8604,0.11,Safe,1119641
+Subhash Nagar,131,Urban,6576,2653,0.01,Safe,5557763
+Vidyanagar,60,Suburban,7078,8946,0.49,Unsafe,8726202
+Dahej,108,Rural,7281,5463,0.11,Unsafe,1161169
+Piplod,92,Suburban,3126,8143,0.63,Safe,383092
+Tarsali,46,Urban,3369,3136,0.41,Unsafe,9022815
+Karelibaug,85,Urban,6712,1683,0.53,Unsafe,2757835
+Piplod,169,Suburban,7466,4960,0.84,Safe,5731225
+Khambhat,185,Suburban,9688,4712,0.65,Unsafe,836012
+Ghanshyam Nagar,173,Rural,7049,2463,0.16,Safe,9174838
+Zadeshwar,64,Suburban,9956,2395,0.45,Unsafe,9268947
+Khambhat,38,Rural,7948,70,0.17,Unsafe,8565326
+Alkapuri,136,Rural,8469,3760,0.4,Safe,6154547
+Karelibaug,75,Urban,3836,3281,0.76,Safe,7271548
+Khambhat,17,Urban,1339,3131,0.41,Unsafe,1412213
+Khambhat,143,Urban,8607,2253,0.37,Unsafe,4506516
+Alka Society,17,Suburban,2372,7591,0.06,Safe,4661147
+Maninagar,112,Rural,5075,4902,0.62,Unsafe,779492
+Sector 21,12,Rural,5283,2094,0.89,Safe,580551
+Gotri,114,Urban,4468,5710,0.58,Unsafe,4271027
+Race Course,151,Rural,5734,558,0.54,Safe,7443102
+Vastrapur,142,Suburban,670,9811,0.14,Safe,3969932
+Subhanpura,151,Urban,3456,6665,0.07,Unsafe,5401438
+Patel Colony,123,Suburban,4637,1898,0.14,Unsafe,9170756
+Satellite,144,Suburban,9036,1179,0.73,Unsafe,8965293
+Sector 21,54,Rural,2255,8635,0.45,Unsafe,4709592
+Ghatlodia,78,Urban,8770,3575,0.53,Safe,8630991
+Kalavad Road,6,Rural,2162,4102,0.62,Safe,2017960
+Udhna,195,Rural,1966,5674,0.03,Safe,8385831
+Sector 23,4,Urban,9897,9779,0.85,Unsafe,2056548
+Race Course,108,Rural,3057,2184,0.88,Safe,3822624
+Ghogha Circle,24,Urban,9925,6992,0.98,Unsafe,9270202
+Pal,196,Suburban,9618,9446,0.54,Unsafe,7622237
+Bharuch Narmada Road,163,Urban,7278,7986,0.92,Safe,6347734
+Amin Marg,152,Urban,3024,8748,0.27,Safe,1207817
+Piplod,0,Suburban,3556,6945,0.21,Unsafe,2715640
+Jambusar,141,Suburban,803,1313,0.63,Unsafe,9838738
+Kalwa Chowk,118,Rural,752,8340,0.1,Unsafe,9209920
+Maninagar,56,Urban,189,7668,0.83,Safe,2210071
+Bhutkhana Chowk,56,Suburban,5285,6763,0.62,Unsafe,4547244
+Gondal Road,2,Rural,256,1683,0.45,Unsafe,1728686
+Borsad,50,Rural,4897,3745,0.88,Safe,5413750
+Bedi Road,56,Suburban,34,8846,0.55,Unsafe,2272933
+Satellite,68,Urban,5236,2018,0.9,Unsafe,8577203
+Kalanala,84,Urban,6609,2990,0.58,Unsafe,8200480
+Kalawad Road,109,Suburban,1933,7034,0.97,Safe,639973
+Sector 30,68,Urban,492,6845,0.79,Safe,5976606
+Vastrapur,176,Rural,5140,7326,0.65,Unsafe,2490719
+Udhna,66,Urban,4036,2567,0.79,Safe,4023887
+Karelibaug,139,Rural,5914,1125,0.36,Safe,6447271
+Vallabh Vidyanagar,93,Suburban,7073,5035,0.28,Safe,6836274
+Joshipura,73,Rural,1856,1265,0.2,Safe,6127174
+P N Marg,14,Suburban,5355,3750,0.94,Safe,6852871
+Ankleshwar GIDC,131,Urban,9715,4323,0.82,Unsafe,9137190
+Rajkot Raiya Road,165,Suburban,4490,2503,0.01,Unsafe,8160836
+Bhayani Ni Waadi,131,Suburban,6783,221,0.55,Safe,141814
+Kalavad Road,187,Suburban,3718,2543,0.73,Safe,2372644
+Zadeshwar,194,Rural,4879,460,0.44,Safe,9548559
+Vesu,116,Urban,5416,4578,0.7,Safe,6837646
+Vesu,3,Urban,6032,2219,0.83,Unsafe,2656824
+Ghogha Circle,136,Rural,5669,5302,0.52,Safe,9793811
+Satellite,57,Suburban,698,2680,0.15,Unsafe,8583146
+Bhayani Ni Waadi,11,Rural,4788,5714,0.25,Unsafe,2709608
+Subhash Nagar,196,Rural,1622,69,0.36,Safe,8177528
+Race Course,81,Rural,7662,3077,0.56,Safe,1060205
+Akota,99,Suburban,3750,5714,0.9,Unsafe,7557943
+Bhutkhana Chowk,154,Suburban,4374,90,0.52,Unsafe,3888737
+Ankleshwar GIDC,54,Rural,4017,1179,0.8,Unsafe,7097125
+University Road,139,Urban,3195,4210,0.68,Safe,788981
+Lambhvel,200,Suburban,101,129,0.28,Safe,694040
+Varachha,51,Urban,726,1927,0.39,Safe,3774649
+Jambusar,44,Suburban,2513,4870,0.91,Safe,3751627
+Sector 23,11,Rural,9732,9718,0.34,Unsafe,180103
+Ghanshyam Nagar,177,Suburban,9387,3981,0.55,Unsafe,210454
+Alkapuri,189,Rural,5857,4194,0.89,Unsafe,7776128
+Vadtal,0,Suburban,7098,4663,0.97,Unsafe,8346863
+Sector 21,48,Urban,422,3465,0.59,Unsafe,5150739
+Subhanpura,169,Rural,6775,3758,0.77,Unsafe,4182341
+Morbi Road,105,Suburban,67,4611,0.44,Unsafe,1663108
+Sector 26,124,Rural,777,9785,0.09,Safe,9569537
+Old NH-8,39,Urban,2336,7566,0.1,Unsafe,7387469
+Air Force Area,109,Urban,1358,2908,0.58,Safe,2397042
+Jhagadia,77,Rural,4648,2743,0.17,Safe,2317861
+Tarsali,95,Urban,4213,1919,0.74,Unsafe,1547698
+Sector 16,28,Suburban,4776,6000,0.56,Unsafe,6534333
+Sector 26,173,Suburban,1573,1617,0.59,Unsafe,103887
+Vallabh Vidyanagar,110,Urban,4304,134,0.26,Unsafe,5255563
+Dhoraji Road,115,Suburban,1673,5610,0.5,Safe,8558161
+Borsad,61,Suburban,298,8683,0.03,Unsafe,1457348
+P N Marg,47,Suburban,4082,4265,0.13,Unsafe,8743567
+Vesu,26,Suburban,3263,3236,0.29,Unsafe,6590283
+K V Road,46,Urban,3850,6023,0.17,Unsafe,849801
+Kalwa Chowk,147,Rural,2277,4766,0.66,Safe,7249230
+Sector 23,4,Urban,7275,8289,0.46,Safe,2395060
+Dhoraji Road,115,Urban,7583,7986,0.73,Safe,7147321
+Vallabh Nagar,55,Urban,4316,7915,0.85,Safe,1048354
+Old NH-8,9,Rural,7813,1179,0.51,Safe,7504430
+Upperkot,189,Urban,5695,3224,0.7,Safe,8647246
+Patel Colony,13,Suburban,1746,9566,0.31,Unsafe,6212542
+Girnar Darwaza,199,Rural,8310,8243,0.4,Unsafe,5311636
+Joshipura,97,Urban,4040,302,0.25,Safe,8621152
+Lambhvel,199,Suburban,2223,286,0.21,Safe,1854382
+Patel Colony,42,Rural,1841,4621,0.51,Unsafe,7548891
+Ankleshwar GIDC,160,Suburban,1718,1931,0.2,Safe,7294681
+Bhayani Ni Waadi,75,Rural,4421,1229,0.07,Safe,4011565
+Sama,75,Suburban,1139,104,0.62,Unsafe,5115406
+Mavdi,139,Suburban,8984,4260,0.53,Safe,4415975
+Maninagar,69,Rural,305,7589,0.59,Safe,513135
+Sector 25,82,Urban,7034,6798,0.9,Safe,7172507
+Waghodia Road,190,Urban,9931,7095,0.09,Unsafe,1887382
+Nirmal Nagar,19,Rural,3397,8066,0.69,Safe,8716674
+Kalanala,130,Rural,6112,6381,0.22,Unsafe,9909156
+Piplod,24,Suburban,1232,4674,0.66,Unsafe,1172215
+Vallabh Nagar,98,Suburban,276,903,0.99,Safe,9316536
+Akota,105,Suburban,8139,149,0.01,Safe,7579316
+Zadeshwar,25,Urban,3220,2387,0.33,Unsafe,5814798
+Vastrapur,186,Rural,4713,3641,0.17,Unsafe,8288984
+Kalwa Chowk,188,Rural,1084,9763,0.09,Unsafe,5586346
+Bhutkhana Chowk,115,Suburban,2296,9073,0.59,Safe,753650
+Dumas,164,Suburban,8169,9947,0.07,Safe,262641
+Girnar Darwaza,189,Suburban,7258,8484,0.58,Safe,8362185
+Chandkheda,168,Rural,4331,9167,0.57,Unsafe,4498733
+Subhash Nagar,81,Urban,6282,3430,0.34,Unsafe,1295849
+Karelibaug,14,Suburban,1681,961,0.67,Safe,2960332
+Ranjit Sagar Road,93,Rural,8205,4051,0.22,Unsafe,1507258
+Karelibaug,161,Suburban,3902,1248,0.66,Safe,7753046
+Naranpura,38,Suburban,2708,8522,0.57,Unsafe,7864795
+Jhagadia,36,Urban,3560,8373,1.0,Safe,1964715
+Ghanshyam Nagar,12,Suburban,5070,198,0.51,Unsafe,9189709
+Ghatlodia,37,Suburban,6145,2518,0.37,Safe,8012348
+Upperkot,93,Rural,7454,6366,0.49,Unsafe,1959202
+Ghogha Road,41,Suburban,1704,2099,0.59,Unsafe,1467560
+Sabarmati,99,Suburban,8534,8674,0.37,Safe,4752198
+Sayajigunj,90,Urban,2787,556,0.97,Unsafe,6237721
+Rajkot Raiya Road,103,Rural,374,8526,0.95,Safe,5453240
+Bhutkhana Chowk,100,Rural,30,3135,0.65,Unsafe,2217489
+Bhatar,122,Suburban,2606,468,0.71,Safe,5224782
+Zanzarda Road,167,Rural,2688,1673,0.19,Safe,8573753
+Ranjit Sagar Road,120,Rural,3481,2717,0.95,Unsafe,2332293
+Sarkhej,136,Suburban,1882,8368,0.26,Unsafe,6391206
+Udhna,136,Urban,9655,9388,0.95,Unsafe,6498697
+Sarkhej,51,Urban,1202,8825,0.59,Unsafe,8926453
+Karelibaug,43,Urban,9794,5317,0.53,Safe,5064865
+Morbi Road,136,Urban,715,9304,0.67,Safe,7334354
+Ghogha Road,126,Suburban,5693,1205,0.91,Safe,7034456
+Subhanpura,154,Urban,6403,6696,0.42,Unsafe,614355
+Kalanala,37,Suburban,4392,1104,0.23,Safe,6784924
+Sabarmati,19,Urban,2467,9175,0.73,Unsafe,3334567
+Ranjit Sagar Road,119,Urban,4422,2586,0.6,Unsafe,9046025
+Mavdi,36,Suburban,8550,3112,0.11,Safe,8753452
+Sector 21,70,Urban,2608,8652,0.53,Safe,2615589
+Bedi Road,110,Rural,644,5431,0.08,Safe,6114953
+Joshipura,169,Suburban,3001,2526,0.59,Safe,8194469
+Maninagar,127,Rural,6392,8024,0.02,Unsafe,551987
+Lambhvel,197,Urban,8435,5723,0.3,Safe,5280259
+Ghatlodia,158,Suburban,7699,6628,0.37,Unsafe,7336198
+Sector 25,18,Rural,4651,3006,0.08,Unsafe,926499
+Udhna,50,Rural,5555,5348,0.85,Unsafe,187250
+Bedi Road,8,Urban,7574,4359,0.81,Unsafe,3045606
+Air Force Area,41,Suburban,1956,1412,0.15,Unsafe,1720120
+Alkapuri,172,Urban,8423,5004,0.49,Unsafe,4026929
+Sector 29,13,Rural,5339,1644,0.27,Safe,175778
+Race Course,171,Rural,5425,2599,0.78,Safe,488572
+Karamsad,126,Urban,5434,4102,0.28,Safe,9470303
+Adajan,103,Rural,2148,5060,0.93,Safe,5517854
+Sama,45,Suburban,2825,2386,0.64,Safe,9389376
+Palej,94,Rural,1579,4182,0.29,Safe,1639461
+University Road,27,Rural,3728,413,0.16,Safe,9151851
+Ghatlodia,183,Suburban,9963,3551,0.26,Unsafe,5492494
+P N Marg,122,Urban,3603,6627,0.91,Unsafe,6922967
+Bhakti Nagar,190,Suburban,4765,4181,0.88,Safe,1247968
+P N Marg,20,Rural,8898,7777,0.55,Safe,4932836
+Girnar Darwaza,94,Urban,2694,8272,0.2,Unsafe,8805755
+Dhoraji Road,161,Urban,5644,2690,0.41,Safe,2972351
+Upperkot,37,Rural,502,5168,0.43,Unsafe,1030728
+Akota,192,Urban,1966,2798,0.33,Safe,3012969
+Dumas,125,Urban,6486,3658,0.22,Safe,8795069
+Adajan,0,Urban,5319,6567,0.59,Safe,6045178
+Kalawad Road,13,Urban,7930,779,0.37,Unsafe,710362
+Race Course,77,Suburban,4885,996,0.07,Safe,2485952
+Sector 21,174,Urban,2267,4366,0.05,Safe,4284597
+Borsad,103,Suburban,7640,5137,0.47,Safe,2221010
+Dumas,147,Urban,2073,766,0.02,Unsafe,1684468
+Sector 25,136,Suburban,1019,8332,0.2,Unsafe,1687152
+University Road,75,Urban,6867,3502,0.76,Unsafe,7447914
+Akota,191,Rural,7971,2805,0.64,Unsafe,9624469
+Sector 28,40,Rural,7823,2785,0.65,Unsafe,5488593
+Jhagadia,69,Suburban,6716,7024,0.4,Safe,9805082
+Pal,138,Suburban,2849,3596,0.46,Safe,7984932
+Zadeshwar,158,Urban,8980,3406,0.89,Safe,496632
+Park Colony,78,Urban,9847,9065,0.65,Safe,6958734
+Palej,106,Suburban,1486,9416,0.21,Unsafe,4571981
+Fatehgunj,62,Urban,5411,1057,0.76,Safe,326967
+Naranpura,122,Urban,9395,4572,0.83,Unsafe,6068960
+Ranjit Sagar Road,124,Urban,745,3117,0.23,Unsafe,9390913
+Ghogha Road,197,Suburban,6708,4353,0.22,Unsafe,9348253
+Joshipura,39,Rural,2756,6437,0.11,Safe,965570
+Zadeshwar,158,Urban,6070,1327,0.62,Safe,4850275
+Park Colony,117,Suburban,2366,602,0.32,Unsafe,4539526
+Amin Marg,12,Rural,203,4569,0.65,Unsafe,4791520
+Vidyanagar,62,Rural,4469,1045,0.07,Unsafe,2538513
+Akota,10,Urban,7252,4362,0.22,Safe,5726915
+Akota,49,Suburban,1490,7071,0.83,Safe,6202861
+Old NH-8,118,Urban,8416,549,0.67,Unsafe,2862582
+Sarkhej,43,Urban,997,5435,0.3,Unsafe,8786516
+Dumas,54,Urban,9512,1882,0.02,Unsafe,1731908
+Sarkhej,148,Suburban,6721,9314,0.96,Safe,6035601
+Vallabh Nagar,90,Urban,1405,4302,0.56,Safe,3165455
+Sarkhej,103,Rural,8291,1641,0.41,Safe,7903925
+Khambhat,42,Rural,9627,735,0.51,Unsafe,511332
+Sector 17,95,Suburban,7712,4799,0.54,Safe,9556989
+Vidyanagar,85,Suburban,4695,4891,0.8,Unsafe,1314722
+Sayajigunj,156,Urban,5464,7337,0.26,Safe,5405207
+Dhoraji Road,78,Suburban,6908,961,0.77,Safe,5825945
+Zadeshwar,68,Rural,3461,1995,0.56,Unsafe,9559512
+Ankleshwar GIDC,46,Urban,3818,5096,0.91,Unsafe,3866941
+Chitra,155,Urban,5417,3802,0.2,Unsafe,6672655
+Sector 25,93,Suburban,9525,2839,0.75,Unsafe,1991472
+Anklav,182,Urban,4296,9268,0.31,Safe,9561505
+Athwa,24,Suburban,782,2346,0.6,Unsafe,6538189
+Karelibaug,194,Urban,7604,1945,0.82,Unsafe,761342
+Gotri,91,Urban,1473,4952,0.97,Unsafe,8392800
+Alka Society,84,Rural,5675,1399,0.8,Unsafe,1492274
+Kalavad Road,178,Rural,1552,6874,0.18,Safe,6125438
+Sector 29,141,Suburban,3585,13,0.72,Safe,9137683
+Fatehgunj,88,Suburban,4510,2467,0.93,Unsafe,259286
+Zanzarda Road,119,Suburban,5509,9911,0.99,Safe,7106509
+Ankleshwar GIDC,191,Rural,429,3344,0.2,Safe,7607488
+Chitra,108,Suburban,5853,5872,0.9,Safe,1722959
+Sector 16,71,Rural,9610,6526,0.82,Unsafe,303514
+Jambusar,1,Rural,7686,7041,0.61,Safe,3578252
+Sector 29,194,Suburban,8354,5115,0.79,Safe,8419169
+Amod,96,Suburban,9458,3135,0.51,Safe,528216
+Talav Gate,135,Urban,9777,4995,0.87,Safe,1093011
+Green City,110,Rural,5418,9595,0.07,Unsafe,4411491
+Waghodia Road,174,Urban,1933,810,0.17,Unsafe,440894
+Sector 24,189,Urban,3645,5742,0.98,Unsafe,292189
+Vesu,76,Urban,8575,2460,0.89,Unsafe,8146440
+Vadtal,157,Rural,5371,4777,0.19,Safe,2214508
+Girnar Darwaza,165,Rural,9343,366,0.7,Safe,8537984
+Kalwa Chowk,185,Suburban,7724,6334,0.56,Unsafe,5149371
+Bedi Road,119,Urban,8486,6540,0.46,Unsafe,9945414
+Chitra,91,Rural,3032,142,0.53,Safe,2642755
+Khambhat,133,Suburban,6475,515,0.29,Safe,5677355
