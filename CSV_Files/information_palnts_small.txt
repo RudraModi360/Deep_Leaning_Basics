@@ -1,0 +1,241 @@
+Arive-Dantu :
+- Consumable: Yes
+- Medicinal Advantages: Aids digestion, relieves respiratory issues.
+- Disadvantages: None known for moderate consumption.
+- How to Use for Medicinal Advantage: Use leaves in soups and teas.
+- Physical Shape: Herb
+- Local Name: Indian Borage
+
+Basale :
+- Consumable: Yes
+- Medicinal Advantages: Rich in vitamins.
+- Disadvantages: None known for moderate consumption.
+- How to Use for Medicinal Advantage: Use in culinary dishes.
+- Physical Shape: Leafy vine
+- Local Name: Malabar Spinach
+
+Betel :
+- Consumable: Yes
+- Medicinal Advantages: Aids digestion.
+- Disadvantages: Excessive use may stain teeth.
+- How to Use for Medicinal Advantage: Chewed with areca nut.
+- Physical Shape: Climbing vine
+- Local Name: Paan
+
+Crape Jasmine :
+- Consumable: No
+- Medicinal Advantages: Used for skin ailments.
+- Disadvantages: Not for consumption.
+- How to Use for Medicinal Advantage: Topical applications.
+- Physical Shape: Shrub
+- Local Name: Kunda
+
+Curry :
+- Consumable: Yes
+- Medicinal Advantages: Digestive aid.
+- Disadvantages: None known for moderate consumption.
+- How to Use for Medicinal Advantage: Use in culinary dishes.
+- Physical Shape: Small tree
+- Local Name: Curry Patta
+
+Drumstick :
+- Consumable: Yes
+- Medicinal Advantages: Boosts immunity.
+- Disadvantages: None known for moderate consumption.
+- How to Use for Medicinal Advantage: Use in culinary dishes.
+- Physical Shape: Tall tree
+- Local Name: Moringa
+
+Fenugreek :
+- Consumable: Yes
+- Medicinal Advantages: Regulates blood sugar.
+- Disadvantages: None known for moderate consumption.
+- How to Use for Medicinal Advantage: Use as a spice or in teas.
+- Physical Shape: Herb
+- Local Name: Methi
+
+Guava :
+- Consumable: Yes
+- Medicinal Advantages: High in vitamin C.
+- Disadvantages: None known for moderate consumption.
+- How to Use for Medicinal Advantage: Eat raw or in juices.
+- Physical Shape: Small tree
+- Local Name: Amrood
+
+Hibiscus :
+- Consumable: No
+- Medicinal Advantages: Skin and hair benefits.
+- Disadvantages: Not for consumption.
+- How to Use for Medicinal Advantage: Topical applications.
+- Physical Shape: Shrub
+- Local Name: Gurhal
+
+Indian Beech :
+- Consumable: No
+- Medicinal Advantages: Used in traditional medicine.
+- Disadvantages: Not for consumption.
+- How to Use for Medicinal Advantage: Topical oil.
+- Physical Shape: Medium-sized tree
+- Local Name: Karanja
+
+Indian Mustard :
+- Consumable: Yes
+- Medicinal Advantages: Digestive aid.
+- Disadvantages: None known for moderate consumption.
+- How to Use for Medicinal Advantage: Use leaves and seeds in culinary dishes.
+- Physical Shape: Herb
+- Local Name: Sarson
+
+Jackfruit :
+- Consumable: Yes
+- Medicinal Advantages: Digestive aid.
+- Disadvantages: None known for moderate consumption.
+- How to Use for Medicinal Advantage: Eat ripe fruit or seeds.
+- Physical Shape: Large tree
+- Local Name: Kathal
+
+Jamaica Cherry-Gasagase :
+- Consumable: Yes
+- Medicinal Advantages: Rich in vitamins.
+- Disadvantages: None known for moderate consumption.
+- How to Use for Medicinal Advantage: Eat raw or use in dishes.
+- Physical Shape: Small tree
+- Local Name: Gasagase Hannu
+
+Jamun :
+- Consumable: Yes
+- Medicinal Advantages: Controls blood sugar.
+- Disadvantages: None known for moderate consumption.
+- How to Use for Medicinal Advantage: Eat fresh or use in jams.
+- Physical Shape: Medium-sized tree
+- Local Name: Jamun
+
+Jasmine :
+- Consumable: No
+- Medicinal Advantages: Fragrance for relaxation.
+- Disadvantages: Not for consumption.
+- How to Use for Medicinal Advantage: Aromatherapy.
+- Physical Shape: Vine
+- Local Name: Chameli
+
+Karanda :
+- Consumable: Yes
+- Medicinal Advantages: Digestive aid.
+- Disadvantages: None known for moderate consumption.
+- How to Use for Medicinal Advantage: Eat raw or use in pickles.
+- Physical Shape: Shrub
+- Local Name: Karonda
+
+Lemon :
+- Consumable: Yes
+- Medicinal Advantages: Rich in vitamin C.
+- Disadvantages: None known for moderate consumption.
+- How to Use for Medicinal Advantage: Use in culinary dishes and drinks.
+- Physical Shape: Small tree
+- Local Name: Nimbu
+
+Mango :
+- Consumable: Yes
+- Medicinal Advantages: Nutrient-rich.
+- Disadvantages: None known for moderate consumption.
+- How to Use for Medicinal Advantage: Eat fresh or use in dishes.
+- Physical Shape: Large tree
+- Local Name: Aam
+
+Mexican Mint :
+- Consumable: Yes
+- Medicinal Advantages: Aids digestion.
+- Disadvantages: None known for moderate consumption.
+- How to Use for Medicinal Advantage: Use leaves in culinary dishes.
+- Physical Shape: Herb
+- Local Name: Pudina
+
+Mint :
+- Consumable: Yes
+- Medicinal Advantages: Digestive aid.
+- Disadvantages: None known for moderate consumption.
+- How to Use for Medicinal Advantage: Use leaves in culinary dishes and teas.
+- Physical Shape: Herb
+- Local Name: Pudina
+
+Neem :
+- Consumable: Yes
+- Medicinal Advantages: Antibacterial, skincare.
+- Disadvantages: None known for moderate consumption.
+- How to Use for Medicinal Advantage: Use leaves in cooking or neem oil for skin.
+- Physical Shape: Medium-sized tree
+- Local Name: Neem
+
+Oleander :
+- Consumable: No
+- Medicinal Advantages: Contains cardiac glycosides (poisonous).
+- Disadvantages: Highly toxic, not for consumption.
+- How to Use for Medicinal Advantage: None for consumption.
+- Physical Shape: Shrub
+- Local Name: Kaner
+
+Parijata :
+- Consumable: No
+- Medicinal Advantages: Used in traditional medicine.
+- Disadvantages: Not for consumption.
+- How to Use for Medicinal Advantage: Topical applications.
+- Physical Shape: Shrub
+- Local Name: Harsingar
+
+Peepal :
+- Consumable: Yes
+- Medicinal Advantages: Aids skin,
+
+ digestion.
+- Disadvantages: None known for moderate consumption.
+- How to Use for Medicinal Advantage: Use leaves in teas or dishes.
+- Physical Shape: Large tree
+- Local Name: Peepal
+
+Pomegranate :
+- Consumable: Yes
+- Medicinal Advantages: Antioxidant, heart health.
+- Disadvantages: None known for moderate consumption.
+- How to Use for Medicinal Advantage: Eat fresh or use in juices.
+- Physical Shape: Small tree
+- Local Name: Anar
+
+Rasna :
+- Consumable: Yes
+- Medicinal Advantages: Anti-inflammatory.
+- Disadvantages: None known for moderate consumption.
+- How to Use for Medicinal Advantage: Use in herbal teas or decoctions.
+- Physical Shape: Herb
+- Local Name: Rasna
+
+Rose Apple :
+- Consumable: Yes
+- Medicinal Advantages: Rich in vitamins.
+- Disadvantages: None known for moderate consumption.
+- How to Use for Medicinal Advantage: Eat fresh or use in salads.
+- Physical Shape: Small tree
+- Local Name: Chomphu
+
+Roxburgh Fig :
+- Consumable: Yes
+- Medicinal Advantages: Nutrient-rich.
+- Disadvantages: None known for moderate consumption.
+- How to Use for Medicinal Advantage: Eat fresh or use in desserts.
+- Physical Shape: Medium-sized tree
+- Local Name: Dumur
+
+Sandalwood:
+- Consumable: No
+- Medicinal Advantages: Aromatic wood.
+- Disadvantages: Not for consumption.
+- How to Use for Medicinal Advantage: For fragrances, not for consumption.
+- Physical Shape: Small to medium-sized tree
+- Local Name: Chandan
+
+Tulsi:
+- Consumable: Yes
+- Medicinal Advantages: Immunity, respiratory health.
+- Disadvantages: None known for moderate consumption.
+- How to Use for Medicinal Advantage: Use fresh leaves or in teas.
+- Physical Shape: Herb
+- Local Name: Holy Basil
